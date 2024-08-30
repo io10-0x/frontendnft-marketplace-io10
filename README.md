@@ -71,7 +71,7 @@
 
 ## About The Project
 
-[![Home Page Screenshot][HomePage-Image]]
+![Home Page Screenshot][HomePage-Image]
 
 ## About
 
@@ -94,7 +94,7 @@ This project serves as a practical example of building a front-end application w
 ### Built With
 
 - [![React][React.js]][React-url]
-- [![Vite][Vite.js]][Vue-url]
+- [![Vite][Vite.js]][Vite-url]
 - [![React-Router][React-router.js]][React-router-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -164,8 +164,8 @@ Node.js & npm: Node.js and npm are required to run the project. You can install 
 
 Sample of what pages should look like after deployment
 
-[![Job Page Screenshot][JobsPage-Image]]
-[![AddJob Page Screenshot][AddJobPage-Image]]
+![Job Page Screenshot][JobsPage-Image]
+![AddJob Page Screenshot][AddJobPage-Image]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
